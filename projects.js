@@ -1,0 +1,122 @@
+const PROJECTS = [
+  {
+    "slug": "spiderverse",
+    "title": "Spiderverse",
+    "category": "Creative",
+    "label": "ANIMATION / TYPOGRAPHY",
+    "featured": true,
+    "context": "An edit using Spider-Verse animation, shifting from quiet city views into saturated action and oversized text. Color, scale, and changing compositions give the short piece its visual rhythm.",
+    "source": "https://drive.google.com/file/d/1hNyduu9GH7FIild_Zt7rVHUaUjog5PcD/view",
+    "duration": 19.133333,
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "slug": "bora",
+    "title": "Bora Go Ultra",
+    "category": "Product",
+    "label": "PRESENTER / PRODUCT",
+    "featured": true,
+    "context": "A vertical product presentation combining a presenter, close-up camera demonstrations, accessory examples, and on-screen labels. The edit alternates between explanation and practical use.",
+    "source": "https://drive.google.com/file/d/12n-mOUTBWxAnSyGs-uekgw7CzuQuq_eo/view",
+    "duration": 87.4,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "slug": "light",
+    "title": "Light yagami double exposure test",
+    "category": "Creative",
+    "label": "ANIME / VISUAL EXPERIMENT",
+    "featured": true,
+    "context": "An experimental anime edit with layered imagery, bold blue and magenta color treatments, and changing scale. The original project is titled “Light yagami double exposure test.”",
+    "source": "https://drive.google.com/file/d/1kevbU30FpcH1CcgINSoJvNL0IbcUHDyZ/view",
+    "duration": 16.666667,
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "slug": "flow",
+    "title": "FLOW2Vd1",
+    "category": "Product",
+    "label": "ZYPP / PRODUCT PRESENTATION",
+    "featured": true,
+    "context": "A vertical presentation carrying ZYPP branding. Presenter segments, product close-ups, and graphic inserts introduce the device and its features. The original filename is retained.",
+    "source": "https://drive.google.com/file/d/1OV_V7wbJXrz0C69KgJ-1bE4FscyFC0w1/view",
+    "duration": 60.98,
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "slug": "reallife",
+    "title": "VD4 Go Ultra Real Life Footage",
+    "category": "Product",
+    "label": "REAL-WORLD / CAMERA FOOTAGE",
+    "featured": false,
+    "context": "A vertical video combining a presenter introduction with first-person activity footage and picture-in-picture framing. Indoor games and movement show the camera in use.",
+    "source": "https://drive.google.com/file/d/1xobH_AsxLUnPXVi34zgJ9Yd7aakR6C4w/view",
+    "duration": 97.895329,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "slug": "babydoll",
+    "title": "Baby doll",
+    "category": "Creative",
+    "label": "ANIME / TEXT-LED EDIT",
+    "featured": false,
+    "context": "An anime edit mixing character close-ups, layered images, and expressive text. Typography changes scale and position as the imagery moves between scenes.",
+    "source": "https://drive.google.com/file/d/1CbFPdgSQE8gnbHo-S6AzR1CMMn-P0iMk/view",
+    "duration": 26.566667,
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "slug": "android",
+    "title": "Android Development class",
+    "category": "Education",
+    "label": "COURSE / EXPLAINER",
+    "featured": false,
+    "context": "A vertical education video using illustrated icons, short text sequences, and inserted footage to explain Android development. Light and dark layouts structure the information.",
+    "source": "https://drive.google.com/file/d/1GC1OqEBIJJOjima96ItRBz_GQuFilUpm/view",
+    "duration": 128.0,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "slug": "ai",
+    "title": "Ai full-stack class",
+    "category": "Education",
+    "label": "COURSE / EXPLAINER",
+    "featured": false,
+    "context": "A vertical course video combining a presenter, AI-related imagery, patterned interludes, and text-led information screens. Burmese and English text appear throughout the edit.",
+    "source": "https://drive.google.com/file/d/1woixkjslmMZFWNxsH7wBb06b4r2YvIla/view",
+    "duration": 70.433333,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "slug": "ux",
+    "title": "UX UI Designer Class",
+    "category": "Education",
+    "label": "COURSE / EXPLAINER",
+    "featured": false,
+    "context": "A vertical education video introducing design concepts through animated text, button examples, illustrations, and contrasting light and dark compositions.",
+    "source": "https://drive.google.com/file/d/1gcR4Yv3tYitxdSxv1aTon5__whCAjSHb/view",
+    "duration": 120.533333,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "slug": "empire",
+    "title": "empire",
+    "category": "Product",
+    "label": "SOFTWARE / VISUAL EXPLAINER",
+    "featured": false,
+    "context": "A vertical visual explainer with software interface imagery, laptop compositions, file labels, and Burmese text. Minimal dark layouts keep the information prominent.",
+    "source": "https://drive.google.com/file/d/1NkTEDUD9XfN2xPrxxpaSZNUlA-yW7drE/view",
+    "duration": 40.0,
+    "width": 2160,
+    "height": 3840
+  }
+];
